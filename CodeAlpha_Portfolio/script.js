@@ -496,7 +496,7 @@ ${data.get("message")}`
         );
 
       window.location.href =
-        `mailto:noor.fatima.dev@gmail.com?subject=${subject}&body=${body}`;
+        `mailto:faiqabasharat05@gmail.com?subject=${subject}&body=${body}`;
 
       document.getElementById(
         "formNote"
