@@ -1,84 +1,92 @@
-# CodeAlpha Internship Tasks
+# CodeAlpha – Front-End Development Internship
 
-This repository contains the projects and tasks I completed as part of my **Front-End Development Internship at CodeAlpha**.
+This repository showcases the projects I completed during my **Front-End Development Internship at CodeAlpha**. It includes practical assignments focused on building responsive, interactive, and user-friendly web interfaces using HTML, CSS, and JavaScript.
 
 ## About the Internship
 
-During my internship at **CodeAlpha**, I worked on practical front-end development projects that allowed me to apply my knowledge of web development to real-world tasks.
+During my internship at CodeAlpha, I worked on hands-on front-end development tasks designed to strengthen my understanding of web technologies and practical implementation.
 
-The internship focused on strengthening my skills in creating responsive, interactive, and user-friendly websites using **HTML, CSS, and JavaScript**.
+The experience allowed me to work with website layouts, responsive design, JavaScript functionality, and interactive user interfaces while improving my problem-solving and debugging skills.
 
-## Tasks Completed
+## Projects & Tasks
 
 ### 1. Image Gallery
 
-A responsive and interactive image gallery created as part of the internship task.
+An interactive image gallery developed to practice image presentation, navigation, and JavaScript-based functionality.
 
-**Features:**
-
-* Displays a collection of images in a structured gallery
-* Responsive layout for different screen sizes
-* Previous and next navigation buttons
-* Back button functionality
-* Interactive image navigation using JavaScript
-* Clean and user-friendly interface
+**Key Features:**
+- Organized image gallery layout.
+- Responsive design for different screen sizes.
+- Previous and next image navigation.
+- Back button functionality.
+- Interactive image navigation using JavaScript.
+- Clean and intuitive user interface.
 
 **Technologies Used:**
-
-* HTML
-* CSS
-* JavaScript
-
----
+- HTML5
+- CSS3
+- JavaScript
 
 ### 2. Personal Portfolio Website
 
-A personal portfolio website designed and developed to showcase my skills, projects, and front-end development abilities.
+A personal portfolio website developed to showcase my profile, technical skills, and projects while practicing front-end development concepts.
 
-**Features:**
-
-* Personal introduction and profile section
-* Skills showcase
-* Project presentation
-* Responsive website layout
-* Interactive elements using JavaScript
-* Clean and user-friendly design
+**Key Features:**
+- Personal introduction and profile section.
+- Technical skills showcase.
+- Projects and work presentation.
+- Responsive page layout.
+- Interactive elements using JavaScript.
+- Structured and user-friendly interface.
 
 **Technologies Used:**
+- HTML5
+- CSS3
+- JavaScript
 
-* HTML
-* CSS
-* JavaScript
+## Skills & Concepts Practiced
 
-## Skills Applied
+Through these projects, I applied and strengthened my knowledge of:
 
-Through these projects, I applied and strengthened my skills in:
+- Front-End Web Development
+- Semantic HTML5
+- CSS3 Styling and Layouts
+- JavaScript Fundamentals
+- DOM Manipulation
+- Event Handling
+- Responsive Web Design
+- Website Structure and Layout
+- Interactive UI Development
+- Debugging and Problem-Solving
+- Code Organization
 
-* Front-End Web Development
-* HTML
-* CSS
-* JavaScript
-* Responsive Web Design
-* User-Friendly Interface Development
-* Website Structure and Layout
-* JavaScript Interactivity
-* Problem-Solving
-* Debugging
-* Writing and Organizing Code
-* Implementing Project Requirements
+## Tools & Development Environment
 
-## Purpose of This Repository
+- **Visual Studio Code** – Code editing and development.
+- **Git** – Version control.
+- **GitHub** – Source code management and repository hosting.
 
-This repository serves as a collection of my work completed during the **CodeAlpha Front-End Development Internship**.
+## Repository Purpose
 
-These projects demonstrate my ability to turn requirements into functional and responsive web experiences while applying front-end development concepts in practical projects.
+This repository serves as a collection of my completed internship assignments and demonstrates my practical application of front-end development concepts.
+
+Each project represents an opportunity to strengthen my technical skills, understand development requirements, and gain hands-on experience building web-based interfaces.
 
 ## Internship Details
 
-Organization: CodeAlpha
-Role: Front-End Development Intern
-Tasks Completed: 2
-Technologies: HTML, CSS, JavaScript
+| Category | Details |
+|---|---|
+| Organization | CodeAlpha |
+| Role | Front-End Development Intern |
+| Domain | Web Development |
+| Tasks Completed | 2 |
+| Technologies | HTML5, CSS3, JavaScript |
+| Development Tools | VS Code, Git, GitHub |
 
- Author
-Faiqa Basharat
+## Author
+
+**Faiqa Basharat**
+
+Front-End Development | UI/UX Design
+
+[Portfolio](https://faiqa-basharat-portfolio.vercel.app/) · [Behance](https://www.behance.net/faiqabasharat05)
